@@ -1,0 +1,37 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 47513,
+      "minecraft:walk_one_cm": 4571,
+      "minecraft:leave_game": 2,
+      "minecraft:mob_kills": 3,
+      "minecraft:walk_under_water_one_cm": 1157,
+      "minecraft:play_time": 47513,
+      "minecraft:damage_dealt": 822,
+      "minecraft:jump": 34,
+      "minecraft:time_since_death": 47513,
+      "minecraft:sprint_one_cm": 1173,
+      "minecraft:fall_one_cm": 325,
+      "minecraft:total_world_time": 47513,
+      "minecraft:fly_one_cm": 211748,
+      "minecraft:walk_on_water_one_cm": 594,
+      "minecraft:crouch_one_cm": 377,
+      "minecraft:sneak_time": 743
+    },
+    "minecraft:used": {
+      "minecraft:netherite_sword": 12,
+      "minecraft:cobblestone": 2
+    },
+    "minecraft:killed": {
+      "minecraft:skeleton": 1,
+      "minecraft:creeper": 1,
+      "minecraft:witch": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:cobblestone": 2,
+      "minecraft:glass_bottle": 4,
+      "minecraft:redstone": 7
+    }
+  },
+  "DataVersion": 5023
+}
